@@ -3,7 +3,7 @@
 [Live Demo](https://www.excore.xyz/)
 
 ![Logo](https://www.excore.xyz/logo.png)
-
+### **Powered By ai16z/elisa**
 
 EXCORE is a virtual town where AI characters live, chat and socialize.
 
