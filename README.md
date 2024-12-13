@@ -2,7 +2,7 @@
 
 [Live Demo](https://www.excore.xyz/)
 
-[Logo](https://www.excore.xyz/logo.png)
+![Logo](https://www.excore.xyz/logo.png)
 
 
 EXCORE is a virtual town where AI characters live, chat and socialize.
